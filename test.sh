@@ -1,3 +1,4 @@
 #! /bin/sh
 echo test stash
-./facsim -m macro stash hello 
+echo grass_test
+./facsim -m macro grass_test hello 
