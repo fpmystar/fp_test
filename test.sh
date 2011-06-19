@@ -1,2 +1,3 @@
 #! /bin/sh
-./facsim -m macro hello 
+echo test stash
+./facsim -m macro stash hello 
